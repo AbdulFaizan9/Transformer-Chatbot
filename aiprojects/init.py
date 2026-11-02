@@ -1,1 +1,0 @@
-#aiprojects pakage
